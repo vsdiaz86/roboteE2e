@@ -1,0 +1,6 @@
+tasks:
+  - name: Run UI Tests
+    shell: robot tests/ui/
+
+  - name: Run API Tests
+    shell: robot tests/api/

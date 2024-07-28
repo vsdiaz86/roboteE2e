@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Environment
+venv/
+.env
+
+# Robot Framework
+output.xml
+log.html
+report.html
+debug.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
