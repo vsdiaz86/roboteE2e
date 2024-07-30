@@ -14,6 +14,7 @@ output.xml
 log.html
 report.html
 debug.log
+playwright-log.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
